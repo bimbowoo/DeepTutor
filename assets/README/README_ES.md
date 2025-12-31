@@ -142,7 +142,7 @@
 <img src="../../assets/gifs/co-writer.gif" width="100%">
 </a>
 
-**IdeaGen Interactivo**  
+**IdeaGen Interactivo**  No PROBLEMO
 <sub>Generación de Ideas Impulsada por RAG con Perspectivas Multi-Fuente</sub>
 
 </td>
